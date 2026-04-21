@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Vương Quang Điền",
+    "birth": 1940,
+    "children": [3, 4, 5, 6, 7, 8]
+  },
+  {
+    "id": 2,
+    "name": "Nguyễn Thị Nhạnh",
+    "birth": 1970,
+    "children": [3, 4, 5, 6, 7, 8]
+  },
+  {
+    "id": 3,
+    "name": "Vương Quang Tươi",
+    "birth": 1975,
+    "children": []
+  },
+  {
+    "id": 4,
+    "name": "Vương Quang Thắng",
+    "birth": 2000,
+    "children": []
+  },
+  {
+    "id": 5,
+    "name": "Vương Quang Hảo",
+    "birth": 1975,
+    "children": []
+  },
+  {
+    "id": 6,
+    "name": "Vương Quang Trường",
+    "birth": 2000,
+    "children": []
+  },
+  {
+    "id": 7,
+    "name": "Vương Quang Hoa",
+    "birth": 1975,
+    "children": []
+  },
+  {
+    "id": 8
+    "name": "Vương Quang Hải",
+    "birth": 2000,
+    "children": []
+  }
+]
